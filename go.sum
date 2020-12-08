@@ -1,4 +1,14 @@
 github.com/Yrkan/pdfgen v0.0.28 h1:vclZ81YT3zPPlfemOiDbc37Do9jHzFkRiur2XfW05MY=
 github.com/Yrkan/pdfgen v0.0.28/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v0.0.29 h1:fCtJB8thsS4/lQTYJFqyP0vrMybGzW/bCFEKy1ckK+8=
+github.com/Yrkan/pdfgen v0.0.29/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v0.0.30 h1:Bc/vaIEJ6OmXyiRGiEA70XQNX2jb9FyrpE3HqKrGOps=
+github.com/Yrkan/pdfgen v0.0.30/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v0.0.32 h1:nM1qVRQbLWXxiWdGpDJ2lsbva36l8LrC6cckpM1BxoI=
+github.com/Yrkan/pdfgen v0.0.32/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v0.0.34 h1:F4nPCCXr22RGfgpYCOaUaTAizDISm33XWlc2eMYY6eo=
+github.com/Yrkan/pdfgen v0.0.34/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v1.0.0 h1:BBCtSfIgh0upMm/dB/Yp77f0YRa4jgOIEIv6sxv/UJg=
+github.com/Yrkan/pdfgen v1.0.0/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
 github.com/nguyenthenguyen/docx v0.0.0-20201105043207-fda3c29a0605 h1:Lrybkkc+vkem5fV2yRzEkvjOjFdSDm9xAzYw9DeE/YA=
 github.com/nguyenthenguyen/docx v0.0.0-20201105043207-fda3c29a0605/go.mod h1:kM9t0GrSgsrP+L/j+3SAvRVuMSuwctmpMTYXEUAjQXk=

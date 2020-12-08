@@ -39,11 +39,12 @@ func main() {
 	}
 
 	// Write Example
+
 	f, _ := os.Create("./testIoWriter.pdf")
-	pdfgen.Write("./input/Template.docx", t1, f)
+	pdfgen.Write("./input/Test.docx", t1, f)
 	f.Close()
-	
+
 	// Save Example
-	pdfgen.Save("./input/Template.docx", t1, "./output/conv.pdf")
+	pdfgen.Save("./input/Test.docx", t1, "./output/conv.pdf")
 	
 }
