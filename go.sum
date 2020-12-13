@@ -10,5 +10,7 @@ github.com/Yrkan/pdfgen v0.0.34 h1:F4nPCCXr22RGfgpYCOaUaTAizDISm33XWlc2eMYY6eo=
 github.com/Yrkan/pdfgen v0.0.34/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
 github.com/Yrkan/pdfgen v1.0.0 h1:BBCtSfIgh0upMm/dB/Yp77f0YRa4jgOIEIv6sxv/UJg=
 github.com/Yrkan/pdfgen v1.0.0/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
+github.com/Yrkan/pdfgen v1.0.2 h1:yKvQyPexctY4dTEoyimIKi0Q6sLR3gKVuBpdsYDEZSs=
+github.com/Yrkan/pdfgen v1.0.2/go.mod h1:n41F/0p84IB6GhC4hTJSMgA3cdPdxVDVbGB/CjtSo1E=
 github.com/nguyenthenguyen/docx v0.0.0-20201105043207-fda3c29a0605 h1:Lrybkkc+vkem5fV2yRzEkvjOjFdSDm9xAzYw9DeE/YA=
 github.com/nguyenthenguyen/docx v0.0.0-20201105043207-fda3c29a0605/go.mod h1:kM9t0GrSgsrP+L/j+3SAvRVuMSuwctmpMTYXEUAjQXk=
